@@ -1,7 +1,7 @@
 <?php
 
 class Person{
-	use Validations;
+	
 	const EMPLOYEE_DEVELOPER = 1;
 	const EMPLOYEE_DESIGNER = 2;
 
