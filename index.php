@@ -1,5 +1,4 @@
 <?php 
-include 'traits/Validations.php';
 include 'Company.php';
 include 'Person.php';
 include 'Designer.php';
